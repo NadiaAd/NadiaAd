@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NadiaAd, a CSM professional
-- 👀 I’m interested in Web development, Data Science and/or Project Management positions
-- 🌱 I’m currently learning Full Stack web development and Data Science 
-- 💞️ I’m looking to collaborate on web development and data science projects
+- 👋 Hi, I’m @NadiaAd, an IT professional
+- 👀 I’m interested in engineering, data, cloud related position
 - 📫 How to reach me nadiadzaklo@gmail.com
 
 <!---
